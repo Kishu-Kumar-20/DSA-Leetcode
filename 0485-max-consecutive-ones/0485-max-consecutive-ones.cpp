@@ -5,9 +5,9 @@ public:
         for(int i = 0; i < nums.size(); i++){
             if(nums[i] == 1){
                 count++;
-                _max = max(_max,count);
             }
-            else{
+                _max = max(_max,count);
+            if(nums[i]!= 1){
                 count = 0;
             }
         }
