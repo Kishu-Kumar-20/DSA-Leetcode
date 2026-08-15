@@ -6,13 +6,14 @@ public:
        vector<int> ans;
        for(int i = 0; i < n; i++){
             int num = target-nums[i];
-            if(mpp.find(num) != mpp.end()){
-                ans.push_back((*mpp.find(num)).second);
+            auto it = mpp.find(num);
+            if(it != mpp.end()){
+                ans.push_back(it->second);
                 ans.push_back(i);
-                break;
+                return ans;
             }
             mpp[nums[i]] = i;
        }
-       return ans; 
+       return {}; 
     }
 };
