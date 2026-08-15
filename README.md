@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -44,6 +45,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
