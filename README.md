@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -26,6 +27,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
