@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -57,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -99,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
