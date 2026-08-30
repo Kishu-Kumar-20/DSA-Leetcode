@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
 | Problem Name | Difficulty |
