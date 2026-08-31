@@ -12,33 +12,43 @@ class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         ListNode *temp = head->next, *prev = head, *nex;
-        vector<int> v;
-        int flag = 0, cnt = 1;
+        int cnt = 1, count = 0;
+        int l= INT_MAX, r = INT_MIN;
+        int _min = INT_MAX;
+        int _max;
+        int _prev = INT_MAX;
         while(temp->next != nullptr){
             nex = temp->next;
             cnt++;
             if(temp->val < prev->val && temp->val < nex->val){
-                v.push_back(cnt);
-                flag = 1;
+                l = min(l, cnt);
+                r = max(r,cnt);
+                if (_prev != INT_MAX) {
+                    int diff = cnt - _prev;
+                    _min = min(_min, diff);
+                }
+                _prev = cnt;
+                count++; 
             }else if(temp->val > prev->val && temp->val > nex->val){
-                v.push_back(cnt);
-                flag = 1;
+                l = min(l, cnt);
+                r = max(r,cnt);
+                if (_prev != INT_MAX) {
+                    int diff = cnt - _prev;
+                    _min = min(_min, diff);
+                }
+                _prev = cnt;
+                count++; 
             }
             prev = temp;
             temp = nex;
         }
         vector<int> ans;
-        if(flag == 0 || v.size() < 2){
+        if(count<2){
             ans.push_back(-1);
             ans.push_back(-1);
             return ans;
         }
-        int _max = v.back()-v[0];
-        int _min = INT_MAX;
-        for(int i = 1; i < v.size(); i++){
-            int diff = v[i]-v[i-1];
-            _min = min(_min, diff);
-        }
+        _max = r - l;
         ans.push_back(_min);
         ans.push_back(_max);
         return ans;
