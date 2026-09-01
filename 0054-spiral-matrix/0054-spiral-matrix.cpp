@@ -5,29 +5,25 @@ public:
         int m = matrix[0].size();
         int l = 0, r = m-1, t = 0, b = n-1;
         vector<int> ans;
-        int value = n*m, cnt = 0;
-        while(cnt < value){
+        while(l <= r && t <= b){
             for(int i = l; i <= r; i++){
                 ans.push_back(matrix[t][i]);
-                cnt++;
             }
             t++;
             for(int j = t; j <= b; j++){
                 ans.push_back(matrix[j][r]);
-                cnt++;
             }
             r--;
-            if(cnt == value) break;
-            for(int i = r; i >= l; i--){
-                ans.push_back(matrix[b][i]);
-                cnt++;
-
+            if(t <= b) {
+                for(int i = r; i >= l; i--){
+                    ans.push_back(matrix[b][i]);
+                }
             }
             b--;
-            if(cnt == value) break;
-            for(int j = b; j >= t; j--){
-                ans.push_back(matrix[j][l]);
-                cnt++;
+            if(l<=r){
+                for(int j = b; j >= t; j--){
+                    ans.push_back(matrix[j][l]);
+                }
             }
             l++;
         }
