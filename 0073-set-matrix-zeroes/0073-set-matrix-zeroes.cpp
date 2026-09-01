@@ -23,21 +23,15 @@ public:
                 }
             }
         }
-        for(int i = n-1; i >= 1; i--){
-            if(nums[0][0] == 0){
+        if(nums[0][0] == 0){
+            for(int i = 0; i < n; i++){
                 nums[0][i] = 0;
             }
-            // else{
-                // break;
-            // }
         }
-        for(int i = m-1; i >= 0; i--){
-            if(col_0 == 0 ){
+        if(col_0 == 0 ){
+            for(int i = 0; i < m; i++){
                 nums[i][0] = 0;
             }
-            // else{
-                // break;
-            // }
         }
     }
 };
