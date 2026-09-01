@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -117,5 +118,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
