@@ -1,37 +1,20 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int even = 0, odd = -1;
-        int f_o = 1, f_e = 1;
-        for(int i = 0; i < nums1.size(); i++){
-            if(nums1[i]%2 == 0){
-                if(even == 0) even = nums1[i];
-                even = min(even, nums1[i]);
-            }else{
-                if(odd == -1) odd = nums1[i];
-                odd = min(nums1[i],odd);
-            }
+        int odd = INT_MAX;
+        for(int x : nums1){
+            if(x % 2 != 0)
+                odd = min(odd, x);
         }
-        if(odd == -1 || even == 0) return true;
 
-        for(int i = 0; i < nums1.size(); i++){
-            if(nums1[i]%2 == 0){
+        if(odd == INT_MAX) 
+            return true;
 
-            }else{
-                if((nums1[i]-odd) <= 0){
-                    f_e = 0;
-                }
-            }
-            if(nums1[i]%2 != 0){
-
-            }else{
-                if((nums1[i]-odd) <= 0){
-                    f_o = 0;
-                }
-            }
+        for(int x : nums1){
+            if(x % 2 == 0 && x < odd)
+                return false;
         }
-    
-        if(f_o || f_e) return true;
-        else return false;
+        
+        return true;
     }
 };
