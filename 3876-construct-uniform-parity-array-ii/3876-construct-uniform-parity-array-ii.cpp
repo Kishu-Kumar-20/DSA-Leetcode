@@ -1,14 +1,17 @@
 class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
-        int even = INT_MIN, odd = INT_MAX;
+        int even = 0, odd = -1;
         vector<int> v;
         int f_o = 1, f_e = 1;
         for(int i = 0; i < nums1.size(); i++){
             if(nums1[i]%2 == 0){
-                if(even == INT_MIN) even = nums1[i];
+                if(even == 0) even = nums1[i];
                 even = min(even, nums1[i]);
-            }else odd = min(nums1[i],odd);
+            }else{
+                if(odd == -1) odd = nums1[i];
+                odd = min(nums1[i],odd);
+            }
         }
         for(int i = 0; i < nums1.size(); i++){
             if(nums1[i]%2 == 0){
