@@ -29,6 +29,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +93,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
