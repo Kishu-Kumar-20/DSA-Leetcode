@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
@@ -59,6 +60,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -87,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0229-majority-element-ii/) | Medium |
