@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
