@@ -1,19 +1,19 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int  i = m-1, j = 0, k = m;
-        while(i >= 0 && j < n){
-            if(nums1[i] > nums2[j]){
-                swap(nums1[i], nums2[j]);
-                i--;
-                j++;
+        int j = n-1, i = m-1, p = n+m-1;
+        while(i>-1 && j >-1){
+            if(nums1[i] <= nums2[j]){
+                nums1[p--] = nums2[j--];
             }else{
-                break;
+                nums1[p--] = nums1[i--];
             }
         }
-        for(int i = 0; i < n; i++){
-            nums1[i+m] = nums2[i];
+        if(j == -1) return;
+        else{
+            while(j >-1){
+                nums1[p--] = nums2[j--];
+            }
         }
-        sort(nums1.begin(), nums1.end());
     }
 };
