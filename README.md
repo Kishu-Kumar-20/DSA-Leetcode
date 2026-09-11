@@ -28,6 +28,7 @@
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,4 +171,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
