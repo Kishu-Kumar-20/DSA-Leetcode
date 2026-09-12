@@ -31,6 +31,7 @@
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0704-binary-search](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -100,6 +101,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+| [0704-binary-search](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
