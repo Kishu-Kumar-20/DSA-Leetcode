@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0046-permutations](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -99,6 +100,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
