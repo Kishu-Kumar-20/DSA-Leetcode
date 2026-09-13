@@ -9,6 +9,7 @@ int index(vector<int> &arr){
             _min = min(arr[mid], _min);
             if(arr[low] <= arr[high]){
                 _min = min(arr[low], _min);
+                break;
             }
             if(arr[mid] >= arr[high]){
                 low = mid+1;
