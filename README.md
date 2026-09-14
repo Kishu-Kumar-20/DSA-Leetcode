@@ -56,6 +56,7 @@
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
+| [0836-rectangle-overlap](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -207,4 +208,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
