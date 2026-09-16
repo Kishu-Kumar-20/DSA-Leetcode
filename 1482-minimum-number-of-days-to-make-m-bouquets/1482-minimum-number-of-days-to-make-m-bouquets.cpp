@@ -20,7 +20,6 @@ public:
         if(req > bloomDay.size()) return -1;
         int low = *min_element(bloomDay.begin(), bloomDay.end());
         int high = *max_element(bloomDay.begin(), bloomDay.end());
-        int ans = high;
         while(low <= high){
             int mid = low +(high-low)/2;
             int num = bouquets(bloomDay, k, mid, m);
@@ -28,9 +27,8 @@ public:
                 low = mid+1;
             }else{
                 high = mid-1;
-                ans = min(ans, mid);
             }
         }
-        return ans;
+        return low;
     }
 };
