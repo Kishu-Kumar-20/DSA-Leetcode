@@ -1,20 +1,27 @@
 class Solution {
 public:
     long long duration(vector<int> &arr, int r, int limit){
-        int sum = 0;
-        long long day = 0;
+        int load = 0;
+        long long day = 1;
+        // long long day = 0;
         for(int i = 0; i < arr.size(); i++){
-            sum += arr[i];
-            if (sum == r){
-                sum = 0;
+            if(load + arr[i] > r){
                 day++;
-            }else if (sum > r){
-                day++;
-                sum = arr[i];
+                load = arr[i];
+            }else{
+                load += arr[i];
             }
-            if(day > limit) return day;
+            // sum += arr[i];
+            // if (sum == r){
+            //     sum = 0;
+            //     day++;
+            // }else if (sum > r){
+            //     day++;
+            //     sum = arr[i];
+            // }
+            // if(day > limit) return day;
         }
-        if(sum != 0) day++;
+        // if(sum != 0) day++;
         return day;
     } 
     int shipWithinDays(vector<int>& weights, int days) {
