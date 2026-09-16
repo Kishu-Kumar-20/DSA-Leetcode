@@ -42,6 +42,7 @@
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -120,6 +121,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
