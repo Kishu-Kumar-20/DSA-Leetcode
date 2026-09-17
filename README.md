@@ -45,6 +45,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -73,6 +74,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +110,7 @@
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -125,6 +128,7 @@
 | [0875-koko-eating-bananas](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Sorting
@@ -222,4 +226,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
