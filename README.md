@@ -213,6 +213,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -250,4 +251,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
