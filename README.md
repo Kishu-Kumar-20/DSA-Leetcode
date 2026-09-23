@@ -101,6 +101,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,5 +258,6 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 <!---LeetCode Topics End-->
