@@ -7,7 +7,10 @@ public:
         while( i >= 0){
             char c = num[i]; 
             if((int(c)-48)%2 == 1) {
-                return num.substr(0,i+1);
+                for(int j = 0; j < i+1 ; j++){
+                    ans+=num[j];
+                }
+                break;
             }
             i--;
         }
