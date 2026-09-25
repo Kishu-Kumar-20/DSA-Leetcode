@@ -266,6 +266,11 @@
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
