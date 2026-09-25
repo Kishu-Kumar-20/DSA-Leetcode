@@ -4,9 +4,13 @@ public:
         int n1 = s.size();
         int n2 = t.size();
         if(n1 != n2) return false;
+        vector<int> hash(26,0);
         for(int i = 0; i < n1; i++){
-            if(t.find(s[i]) == string::npos) return false;
-            t[t.find(s[i])] = '0';
+            hash[s[i]-'a']++;
+            hash[t[i]-'a']--;
+        }
+        for(int i = 0; i<hash.size(); i++){
+            if(hash[i] != 0) return false;
         }
         return true;
     }
