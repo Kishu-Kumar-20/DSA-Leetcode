@@ -99,6 +99,7 @@
 | [0015-3sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -269,6 +270,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -281,6 +283,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0796-rotate-string/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -294,4 +297,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
