@@ -63,6 +63,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -115,6 +116,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -273,6 +275,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
