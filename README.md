@@ -233,6 +233,7 @@
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -280,6 +281,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0796-rotate-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -300,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
