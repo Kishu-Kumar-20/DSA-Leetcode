@@ -1,34 +1,28 @@
 class Solution {
 public:
     int myAtoi(string s) {
+        int i = 0;
+        int n = s.size();
+        int sign = 1;
         long long ans = 0;
-        int flag = -1;
-        int count = 0, signcnt = 0;
-        for(auto c:s){
-            if((count!=0 && (c == '-' || c == '+')) || signcnt > 1) break;
-            if(c == ' '){
-                if(count != 0) break;
-                else if(signcnt >0) break;
-                else continue;
-            }
-            else if(c == '-') {
-                flag = 1;
-                signcnt++;
-            }
-            else if(c == '+') {
-                flag = 0;
-                signcnt++;
-            }
-            else if(c >= '0' && c <= '9') {
-                ans = ans*10 + int(c-'0');
-                count++;
-            }
-            else if(c < '0' || c > '9') break;
-            if(ans > INT_MAX) break;
+
+        while(i < n && s[i] == ' ')
+            i++;
+
+        if(i < n && (s[i] == '+' || s[i] == '-')) {
+            if(s[i] == '-')
+                sign = -1;
+            i++;
         }
-        if(flag == 1) ans = -ans;
-        if(ans > INT_MAX) return INT_MAX;
-        if(ans < INT_MIN) return INT_MIN;
-        return ans;
+
+        while(i < n && s[i] >= '0' && s[i] <= '9') {
+            ans = ans * 10 + (s[i] - '0');
+            if(sign * ans >= INT_MAX)
+                return INT_MAX;
+            if(sign * ans <= INT_MIN)
+                return INT_MIN;
+            i++;
+        }
+        return sign * ans;
     }
 };
