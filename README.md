@@ -78,6 +78,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0118-pascals-triangle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -97,6 +98,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0027-remove-element/) | Easy |
@@ -275,6 +277,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -320,4 +323,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
