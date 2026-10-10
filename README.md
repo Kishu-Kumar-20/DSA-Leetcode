@@ -70,6 +70,7 @@
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1103-distribute-candies-to-people](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -231,6 +232,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
+| [1103-distribute-candies-to-people](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
