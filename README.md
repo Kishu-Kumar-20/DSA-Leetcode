@@ -34,6 +34,7 @@
 | [0162-find-peak-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0229-majority-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
@@ -69,6 +70,7 @@
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
@@ -340,5 +342,22 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
