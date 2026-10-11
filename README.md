@@ -21,6 +21,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
