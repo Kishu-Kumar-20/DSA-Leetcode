@@ -5,7 +5,7 @@ public:
         if(n%2 == 0){
             return power(x*x,n/2,ans);
         }else{
-            return power(x,n-1,ans*x);
+            return power(x*x,n/2,ans*x);
         }
     }
     double myPow(double x, int n) {
