@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -92,6 +93,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
