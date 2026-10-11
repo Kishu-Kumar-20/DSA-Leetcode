@@ -76,6 +76,7 @@
 | [1103-distribute-candies-to-people](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
