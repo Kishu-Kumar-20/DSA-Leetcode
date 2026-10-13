@@ -59,6 +59,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -179,6 +180,7 @@
 | [0242-valid-anagram](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
