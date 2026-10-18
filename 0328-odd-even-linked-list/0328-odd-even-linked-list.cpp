@@ -12,16 +12,16 @@ class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
         if(head == nullptr || head->next == nullptr) return head;
-        ListNode *n1 = head, *n2 = n1->next;
-        ListNode *last, *first = n2; 
-        while(n1 != nullptr || n2 != nullptr){
-            if(n1&&n2) n1->next = n2->next;
-            if(n1) last = n1;
-            if(n1) n1 = n1->next;
-            if(n2&&n1) n2->next = n1->next;
-            if(n2) n2 = n2->next;
+        ListNode *odd = head, *even = odd->next;
+        ListNode *evenhead = even;
+        while(even != nullptr && even->next != nullptr){
+            odd->next = odd->next->next;
+            even->next = even->next->next;
+
+            odd = odd->next;
+            even = even->next;   
         }
-        last->next = first;
+        odd->next = evenhead;
         return head;
     }
 };
