@@ -234,6 +234,7 @@
 | [0002-add-two-numbers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
