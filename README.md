@@ -123,6 +123,7 @@
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +238,7 @@
 | [0206-reverse-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
