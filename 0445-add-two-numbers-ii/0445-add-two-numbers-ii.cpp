@@ -10,28 +10,6 @@
  */
 class Solution {
 public:
-    ListNode* addTwo(ListNode* l1, ListNode* l2) {
-        ListNode *temp1 = l1, *temp2 = l2;
-        int carry = 0;
-        ListNode *ans = new ListNode(), *temp = ans;
-        while(temp1 != NULL || temp2 != NULL){
-            int sum = carry;
-            if(temp1) sum += temp1->val;
-            if(temp2) sum += temp2->val;
-            carry = sum/10;
-            ListNode *dig = new ListNode(sum%10);
-            temp->next = dig;
-            temp = dig;
-            if(temp1) temp1 = temp1->next;
-            if(temp2) temp2 = temp2->next;
-        }
-        if(carry == 1){
-            ListNode *dig = new ListNode(1);
-            temp->next = dig;
-            temp = dig;
-        }
-        return ans->next;
-    }
     ListNode* reverseList(ListNode* head) {
         ListNode* prev, *curr;
         prev = nullptr;
@@ -46,6 +24,36 @@ public:
         return head;
     }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        return reverseList(addTwo(reverseList(l1), reverseList(l2)));
+        stack<int> n1, n2;
+        ListNode *p1 = l1, *p2 = l2;
+        while(p1 != nullptr || p2 != nullptr){
+            if(p1){
+                n1.push(p1->val);
+                p1 = p1->next;
+            }
+            if(p2){
+                n2.push(p2->val);
+                p2 = p2->next;
+            }
+        }
+        int carry = 0;
+        ListNode *ans = new ListNode(), *temp = ans;
+        while(!n1.empty() || !n2.empty()){
+            int sum = carry;
+            if(!n1.empty()) sum += n1.top();
+            if(!n2.empty()) sum += n2.top();
+            carry = sum/10;
+            ListNode *dig = new ListNode(sum%10);
+            temp->next = dig;
+            temp = dig;
+            if(!n1.empty()) n1.pop();
+            if(!n2.empty()) n2.pop();
+        }
+        if(carry == 1){
+            ListNode *dig = new ListNode(1);
+            temp->next = dig;
+            temp = dig;
+        }
+        return reverseList(ans->next);
     }
 };
