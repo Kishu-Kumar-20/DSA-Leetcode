@@ -122,6 +122,7 @@
 | [0031-next-permutation](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -141,6 +142,7 @@
 | [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -240,6 +242,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -384,4 +387,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
