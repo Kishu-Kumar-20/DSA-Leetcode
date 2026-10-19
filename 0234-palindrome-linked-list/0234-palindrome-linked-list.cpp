@@ -26,7 +26,8 @@ public:
         head->next = nullptr;
         return newHead;
     }
-    bool isPalindrome(ListNode* head) { 
+    bool isPalindrome(ListNode* head) {
+        if(head->next == nullptr) return true; 
         ListNode* middle = middleNode(head);
         ListNode *ptr2 = reverseList(middle->next);
         ListNode *ptr1 = head;
