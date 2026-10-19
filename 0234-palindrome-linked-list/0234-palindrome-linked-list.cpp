@@ -19,12 +19,23 @@ public:
         return slow;
     }
     ListNode* reverseList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
-            return head;
-        ListNode* newHead = reverseList(head->next);
-        head->next->next = head;
-        head->next = nullptr;
-        return newHead;
+        // if (head == nullptr || head->next == nullptr)
+        //     return head;
+        // ListNode* newHead = reverseList(head->next);
+        // head->next->next = head;
+        // head->next = nullptr;
+        // return newHead;
+        ListNode* prev, *curr;
+        prev = nullptr;
+        curr = head;
+        while(curr != nullptr){
+            ListNode* temp = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = temp;
+        }
+        head = prev;
+        return head;
     }
     bool isPalindrome(ListNode* head) {
         if(head->next == nullptr) return true; 
