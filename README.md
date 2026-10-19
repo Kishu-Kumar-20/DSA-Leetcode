@@ -74,6 +74,7 @@
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
@@ -241,6 +242,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Matrix
@@ -264,6 +266,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
