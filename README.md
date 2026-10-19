@@ -57,6 +57,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -178,6 +179,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,6 +193,7 @@
 | [0242-valid-anagram](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
