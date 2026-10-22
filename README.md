@@ -137,6 +137,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -221,6 +222,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Counting
