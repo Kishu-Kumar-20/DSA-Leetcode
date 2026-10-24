@@ -52,6 +52,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -273,6 +274,7 @@
 | [0328-odd-even-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Matrix
@@ -300,6 +302,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -423,4 +426,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
