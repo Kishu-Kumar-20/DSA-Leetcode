@@ -32,13 +32,14 @@ public:
             temp = temp->next->next;
         }
         temp = head;
-        Node *newhead = temp->next;
+        Node *dnode = new Node(-1);
+        Node *res = dnode;
         while(temp != nullptr){
-            Node* dummy = temp->next;
-            temp->next = dummy->next;
+            res->next = temp->next;
+            temp->next = temp->next->next;
             temp = temp->next;
-            if(temp) dummy->next = temp->next;
+            res = res->next;
         }
-        return newhead;
+        return dnode->next;
     }
 };
