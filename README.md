@@ -29,6 +29,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -145,6 +146,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
