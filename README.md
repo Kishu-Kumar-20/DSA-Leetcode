@@ -72,6 +72,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -144,6 +145,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0078-subsets](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0137-single-number-ii/) | Medium |
