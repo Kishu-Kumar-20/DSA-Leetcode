@@ -49,6 +49,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0775-global-and-local-inversions](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0775-global-and-local-inversions/) | Medium |
+| [0860-lemonade-change](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -352,6 +353,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
