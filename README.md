@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0525-contiguous-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0525-contiguous-array/) | Medium |
@@ -140,6 +141,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Bit Manipulation
@@ -212,6 +214,7 @@
 | [0242-valid-anagram](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Prefix Sum
@@ -227,6 +230,7 @@
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -347,6 +351,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
