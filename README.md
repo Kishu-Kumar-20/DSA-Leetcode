@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -351,6 +353,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0860-lemonade-change](https://github.com/Kishu-Kumar-20/DSA-Leetcode/tree/main/0860-lemonade-change/) | Easy |
